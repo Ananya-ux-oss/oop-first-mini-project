@@ -2,7 +2,7 @@ System for Managing Students (Java OOP Project)
 
 This is a simple Student Management System made with Java that shows how Object Oriented Programming works with Java.
 With this system, you can make a student object, store information about it, and see how features like inheritance,
-constructors, static variables, and overriding/overloading work.
+constructors, static variables, and overriding and overloading methods work.
 
 What the project can do(how the project works)
 
